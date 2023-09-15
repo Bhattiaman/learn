@@ -14,18 +14,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
   <head>
     <!-- Google tag (gtag.js) -->
     <GoogleAnalytics />
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HP8ZWQWXR0"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-HP8ZWQWXR0");
-    </script>
+    
     <BaseHead title={title} description={description} />
     <style>
       main {
