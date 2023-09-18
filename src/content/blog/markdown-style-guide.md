@@ -1,214 +1,75 @@
 ---
-title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jul 01 2022'
-heroImage: '/blog-placeholder-1.jpg'
+title: 'Goldman Sachs is Hiring For Summer Analyst / Summer Associate 🤩!'
+description: 'The summer analyst internship is for candidates currently pursuing an undergraduate/master’s degree and is usually undertaken during the second...'
+pubDate: '2022-08-30'
+heroImage: '/goldman_sachs.png'
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+# About Goldman Sachs
+Goldman Sachs is a renowned global investment banking, securities, and investment management firm. With a strong commitment to excellence, innovation, and diversity, the company offers a dynamic environment for individuals seeking to learn and grow in the financial industry.
 
-## Headings
+**Website**: [Goldman Sachs Careers](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB)
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
-# H1
+---
 
-## H2
+## Summer Analyst Internship
+The Summer Analyst Internship is tailored for candidates currently pursuing undergraduate or master’s degrees, typically during their second or penultimate year of study. This program spans between eight and eleven weeks, depending on the region. It offers a deep dive into the day-to-day operations of various business divisions within Goldman Sachs.
 
-### H3
+**Location**: PAN India
 
-#### H4
+**Batch**: 2024 / 2025
 
-##### H5
+### Responsibilities
+- Immerse yourself in the daily activities of a specific business division.
+- Contribute to real projects and gain hands-on experience.
+- Collaborate with experienced professionals to learn and grow.
 
-###### H6
+### Qualifications
+- Currently pursuing an undergraduate/master's degree.
+- Strong analytical and communication skills.
+- Passion for finance and the financial markets.
 
-## Paragraph
+### Application Process
+Interested candidates can apply through the [Goldman Sachs Careers Portal](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB). Ensure to submit your resume, cover letter, and any additional required documents.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+---
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Images
-
-#### Syntax
-
-```markdown
-![Alt text](./full/or/relative/path/of/image)
+```json
+{
+  "Company": "Goldman Sachs",
+  "Position": "Summer Analyst / Summer Associate",
+  "Salary": Upto 12 LPA,
+  "Year": 2024/2025,
+  "Location": "PAN India",
+  "Qualification": "Bachelor's/Master's Degree"
+}
 ```
 
-#### Output
+## Summer Associate Internship
+The Summer Associate Internship is aimed at candidates pursuing advanced degrees such as MBA, JD, MD, or LLM, typically during their second or penultimate year of study. This ten-week program offers significant responsibilities, giving you a taste of the daily tasks of a full-time Goldman Sachs employee.
 
-![blog placeholder](/blog-placeholder-about.jpg)
+**Location**: PAN India
 
-## Blockquotes
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+### Responsibilities
+- Engage in real tasks that mirror the responsibilities of a full-time employee.
+- Gain insights into the workings of Goldman Sachs' diverse business areas.
+- Network with professionals and peers to foster your career growth.
 
-### Blockquote without attribution
+### Qualifications
+- Currently pursuing an advanced degree (MBA, JD, MD, LLM, etc.).
+- Exceptional problem-solving abilities.
+- Desire to contribute to meaningful projects.
 
-#### Syntax
+### Application Process
+To apply, visit the [Goldman Sachs Careers Portal](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB) and complete the application process, including submitting relevant documents such as your resume and cover letter.
 
-```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-```
+---
 
-#### Output
+***Note***: The mentioned salary of up to 12 LPA is subject to change and may vary based on factors such as experience, role, and location.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
+## Conclusion
+Don't miss the chance to launch your career with one of the leading names in the finance industry. Apply for the Goldman Sachs Summer Analyst and Summer Associate Internships to gain invaluable insights, contribute to real projects, and pave the way for a successful future in the financial sector.
 
-### Blockquote with attribution
-
-#### Syntax
-
-```markdown
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-```
-
-#### Output
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-#### Syntax
-
-```markdown
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-```
-
-#### Output
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Syntax
-
-we can use 3 backticks ``` in new line and write snippet and close with 3 backticks on new line and to highlight language specific syntac, write one word of language name after first 3 backticks, for eg. html, javascript, css, markdown, typescript, txt, bash
-
-````markdown
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-````
-
-Output
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-## List Types
-
-### Ordered List
-
-#### Syntax
-
-```markdown
-1. First item
-2. Second item
-3. Third item
-```
-
-#### Output
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-#### Syntax
-
-```markdown
-- List item
-- Another item
-- And another item
-```
-
-#### Output
-
-- List item
-- Another item
-- And another item
-
-### Nested list
-
-#### Syntax
-
-```markdown
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-```
-
-#### Output
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-#### Syntax
-
-```markdown
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-```
-
-#### Output
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+**Disclaimer**: This information is provided as of the cutoff date and may be subject to change. Please refer to the official Goldman Sachs website for the most up-to-date information and application details.
