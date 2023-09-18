@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Light gray background */
+    margin: 0;
+    padding: 0;
+}
+
+/* Main styles */
+main {
+    text-align: center;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 2.5em; /* Larger font size for the main heading */
+    margin-bottom: 0.5em;
+}
+
+.hero {
+    background-color: #ffffff; /* White background for hero section */
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+h2 {
+    font-size: 1.8em; /* Larger font size for the hero heading */
+    color: #333; /* Darker text color */
+}
+
+p {
+    font-size: 1.2em; /* Slightly larger font size for paragraphs */
+    color: #666; /* Gray text color */
+    margin-bottom: 1em;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background-color: #007bff; /* Blue button background color */
+    color: #fff; /* White button text color */
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em; /* Larger font size for the button text */
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
