@@ -1,114 +1,143 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
-
+import Layout from "../layouts/BlogPost.astro";
 ---
-<style>
 
-/* Global Styles */
-body {
+<style>
+  /* Global Styles */
+  body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-}
+  }
 
-/* Header Styles */
-header {
+  /* Header Styles */
+  header {
     background-color: #007bff;
     color: #fff;
     padding: 1em 0;
     text-align: center;
-}
+  }
 
-h1 {
+  h1 {
     font-size: 2.5em;
     margin-bottom: 0.5em;
-}
+  }
 
-/* Main Content Styles */
-.container {
+  /* Main Content Styles */
+  .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 2em;
-}
+  }
 
-h2 {
+  h2 {
     font-size: 2em;
     color: #333;
     margin-bottom: 1em;
-}
+  }
 
-p {
-    font-size: 1.2em;
+  p {
+    font-size: 1em;
     color: #666;
     line-height: 1.5;
-}
+  }
+  p .siz{
+    font-size: 1.5em;
+  }
 
-/* Footer Styles */
-footer {
+  /* Footer Styles */
+  footer {
     background-color: #333;
     color: #fff;
     padding: 1em 0;
     text-align: center;
-}
+  }
 
-/* Social Media Icons */
-.social-links {
+  /* Social Media Icons */
+  .social-links {
     margin-top: 1em;
-}
+  }
 
-.social-links a {
+  .social-links a {
     text-decoration: none;
     color: #fff;
     font-size: 1.5em;
     margin: 0 0.5em;
-}
+  }
 
-.social-links a:hover {
+  .social-links a:hover {
     color: #007bff;
-}
-
+  }
 </style>
 <Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage="/blog-placeholder-about.jpg"
+  title="About Me"
+  description="Lorem ipsum dolor sit amet"
+  pubDate={new Date("August 08 2021")}
+  heroImage="/blog-placeholder-about.jpg"
 >
-<div class="container">
-	<h4>Welcome to Jobs4Engineer - Your Gateway to a Thriving IT Career!</h4>
-	<p>At Jobs4Engineer, we are passionate about empowering individuals to embark on rewarding careers in the dynamic world of Information Technology (IT). We understand that the IT industry is constantly evolving, and navigating this ever-changing landscape can be both exciting and challenging. That's why we're here to guide you every step of the way.
-	</p>
-	<h5>Our Mission</h5><p>Our mission is to bridge the gap between aspiring IT professionals and the wealth of opportunities available in the industry. We are committed to providing you with the knowledge, resources, and support needed to succeed in your IT career journey.
-	</p>
-	<p>
-		<h5>What We Offer</h5>
-		1. <span style="font-weight: bold;">Career Insights</span>: Our website is your one-stop destination for valuable insights into the IT industry. Whether you're a recent graduate exploring your options or an experienced professional looking to advance your career, our articles and resources will keep you informed about the latest trends, job prospects, and skills in demand.
-		
-		2. <span style="font-weight: bold;">Job Applications</span>: We offer a comprehensive job application platform dedicated exclusively to IT-related positions. Browse through a wide range of job listings, from entry-level positions to senior roles, and apply directly through our platform. We partner with leading IT companies to bring you exciting job opportunities.
-		
-		3. <span style="font-weight: bold;">Skill Development</span>: Continuous learning is essential in the IT field. Discover our curated collection of online courses, certifications, and training programs designed to enhance your skills and make you a competitive candidate in the job market.
-		
-		4. <span style="font-weight: bold;">Community</span>: Join our vibrant community of IT enthusiasts, professionals, and experts. Engage in discussions, seek advice, and network with peers who share your passion for technology and career growth.
-		</p>
+  <div class="container">
+    <h4>Welcome to Jobs4Engineer - Your Gateway to a Thriving IT Career!</h4>
+    <p class = "siz">
+      At Jobs4Engineer, we are passionate about empowering individuals to embark
+      on rewarding careers in the dynamic world of Information Technology (IT).
+      We understand that the IT industry is constantly evolving, and navigating
+      this ever-changing landscape can be both exciting and challenging. That's
+      why we're here to guide you every step of the way.
+    </p>
+    <h5>Our Mission</h5><p class = "siz">
+      Our mission is to bridge the gap between aspiring IT professionals and the
+      wealth of opportunities available in the industry. We are committed to
+      providing you with the knowledge, resources, and support needed to succeed
+      in your IT career journey.
+    </p>
+    <p class = "siz">
+      <h5>What We Offer</h5>
+       1. <span style="font-weight: bold;">Career Insights</span>: Our website
+      is your one-stop destination for valuable insights into the IT industry.
+      Whether you're a recent graduate exploring your options or an experienced
+      professional looking to advance your career, our articles and resources
+      will keep you informed about the latest trends, job prospects, and skills
+      in demand.<br>
+      2. <span style="font-weight: bold;">Job Applications</span>: We
+      offer a comprehensive job application platform dedicated exclusively to
+      IT-related positions. Browse through a wide range of job listings, from
+      entry-level positions to senior roles, and apply directly through our
+      platform. We partner with leading IT companies to bring you exciting job
+      opportunities.<br>
+      3. <span style="font-weight: bold;">Skill Development</span
+      >: Continuous learning is essential in the IT field. Discover our curated
+      collection of online courses, certifications, and training programs
+      designed to enhance your skills and make you a competitive candidate in
+      the job market.<br>
+      4. <span style="font-weight: bold;">Community</span>: Join
+      our vibrant community of IT enthusiasts, professionals, and experts.
+      Engage in discussions, seek advice, and network with peers who share your
+      passion for technology and career growth.
+    </p>
 
-	<h5>Our Team</h5><p>Aman, the founder of Jobs4Engineer, has a deep-rooted passion for technology and a vision to empower individuals to excel in IT careers. Our team comprises experienced professionals from the IT industry who understand the unique challenges and opportunities in this field.
-	</p>
+    <h5>Our Team</h5><p class = "siz">
+      Aman, the founder of Jobs4Engineer, has a deep-rooted passion for
+      technology and a vision to empower individuals to excel in IT careers. Our
+      team comprises experienced professionals from the IT industry who
+      understand the unique challenges and opportunities in this field.
+    </p>
 
-	<p>Ready to take the next step in your IT career? Explore our website, browse through job listings, and access valuable resources that will set you on the path to success. Whether you're seeking a job, looking to upgrade your skills, or simply want to stay informed, Jobs4Engineer is your trusted companion in the IT world.
-</p>
+    <p class = "siz">
+      Ready to take the next step in your IT career? Explore our website, browse
+      through job listings, and access valuable resources that will set you on
+      the path to success. Whether you're seeking a job, looking to upgrade your
+      skills, or simply want to stay informed, Jobs4Engineer is your trusted
+      companion in the IT world.
+    </p>
 
-	<h5>Stay Connected</h5><p>Connect with us on social media to stay updated with the latest job openings, industry insights, and community events:
-	</p>
+    <h5>Stay Connected</h5><p class = "siz">
+      Connect with us on social media to stay updated with the latest job
+      openings, industry insights, and community events:
+    </p>
 
-	<a href="https://twitter.com/Aman16235270">Twitter</a><br>
-	<a href="https://www.threads.net/@amanbhatti405">Threads</a><br>
-	<a href="https://www.linkedin.com/in/amanbhatti01/">LinkedIn</a><br>
-	
-
-</div>
-	
-
+    <a href="https://twitter.com/Aman16235270">Twitter</a><br />
+    <a href="https://www.threads.net/@amanbhatti405">Threads</a><br />
+    <a href="https://www.linkedin.com/in/amanbhatti01/">LinkedIn</a><br />
+  </div>
 </Layout>
-
-
