@@ -12,10 +12,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 
 <html lang="en">
   <head>
-    <!-- Google tag (gtag.js) -->
-    <GoogleAnalytics />
     
     <BaseHead title={title} description={description} />
+
     <style>
       main {
         width: calc(100% - 2em);
@@ -55,6 +54,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
         font-style: italic;
       }
     </style>
+    <!-- Google tag (gtag.js) -->
+    <GoogleAnalytics />
+    
   </head>
 
   <body>
