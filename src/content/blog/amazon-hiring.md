@@ -25,9 +25,6 @@ We are looking for motivated data scientists with excellent leadership skills, a
 - Strong analytical and communication skills.
 - Passion for finance and the financial markets.
 
-#### Application Process
-Interested candidates can apply through the [Amazon Careers Portal](https://www.amazon.jobs/en/jobs/2437708/data-scientist-intern?cmpid=JB_INOP301245B). Ensure to submit your resume, cover letter, and any additional required documents.
-
 
 ```json
 {
