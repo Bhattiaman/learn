@@ -5,10 +5,10 @@ pubDate: '2022-11-11'
 heroImage: '/goldman_sachs.png'
 ---
 
-#### About Company
+<!-- #### About Company
  Codeyoung is a platform where your kids can let their imaginations run wild. Students are taught to be creative, innovative and use coding in the most unusual way possible. Started by two passionate and visionary IIT graduates, with the vision to make every kid in the world to be problem solver, creative leader, and innovator for the future. Codeyoung is one of the fastest-growing tech companies, with a strong presence in 16+ countries globally. We are known for our quality and customer-centricity.
 
-**Website**: [Goldman Sachs Careers](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB)
+**Website**: [Goldman Sachs Careers](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB) -->
 
 
 ---
@@ -16,7 +16,7 @@ heroImage: '/goldman_sachs.png'
 #### Summer Analyst Internship
 The Summer Analyst Internship is tailored for candidates currently pursuing undergraduate or master’s degrees, typically during their second or penultimate year of study. This program spans between eight and eleven weeks, depending on the region. It offers a deep dive into the day-to-day operations of various business divisions within Goldman Sachs.
 
-**Location**: PAN India
+**Location**: Bangalore, Hyderabad, Chennai
 
 **Batch**: 2024 / 2025
 
@@ -37,12 +37,12 @@ Interested candidates can apply through the [Goldman Sachs Careers Portal](https
 
 ```json
 {
-  "Company": "Goldman Sachs",
-  "Position": "Summer Analyst / Summer Associate",
-  "Salary": Upto 12 LPA,
+  "Company": "Amazon",
+  "Position": "Data Scientist Intern",
+  "Salary": Upto 16.5 LPA,
   "Year": 2024/2025,
-  "Location": "PAN India",
-  "Qualification": "Bachelor's/Master's Degree"
+  "Location": "Bangalore, Hyderabad, Chennai",
+  "Qualification": "Master's Degree or equivalent"
 }
 ```
 
