@@ -1,6 +1,6 @@
 ---
 title: 'CRED Hiring Frontend 🤩!'
-description: 'The Data Scientist internship is for candidates currently pursuing an undergraduate/master’s degree and is usually undertaken during the second...'
+description: 'The Cred Frontend internship is for candidates currently pursuing an undergraduate/master’s degree and is usually undertaken during the second...'
 pubDate: '2023-11-12'
 heroImage: '/cred.png'
 ---
