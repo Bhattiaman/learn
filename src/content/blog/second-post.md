@@ -1,4 +1,9 @@
-
+---
+title: 'CRED Hiring Frontend  🤩!'
+description: 'The Front-End internship is for candidates currently pursuing an Bachelor's degree.'
+pubDate: '2023-11-12'
+heroImage: '/cred.png'
+---
 
 #### About Company
 The most reliable and creditworthy people in India are invited to join the private CRED club, where members receive rewards for responsible financial management. The aim behind CRED was to establish a community based on the long-lost virtue of trust, which was the driving force behind its creation. a group of people who work hard to uphold moral standards in this area until they eventually scale down their actions to establish an ideal society in which being trustworthy is the rule rather than the exception. In order to create a community such as this, one must first create a unique community that strives to realize this vision. 
