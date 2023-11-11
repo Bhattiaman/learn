@@ -13,17 +13,12 @@ heroImage: '/goldman_sachs.png'
 
 ---
 
-#### Summer Analyst Internship
-The Summer Analyst Internship is tailored for candidates currently pursuing undergraduate or master’s degrees, typically during their second or penultimate year of study. This program spans between eight and eleven weeks, depending on the region. It offers a deep dive into the day-to-day operations of various business divisions within Amazon.
+#### Data Scientist Intern 
+We are looking for motivated data scientists with excellent leadership skills, and the ability to develop, automate, and run analytical models of our systems. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this position. Experience in the integration of model-based engineering tools and/or multidisciplinary analysis & optimization is also a plus.
 
 **Location**: Bangalore, Hyderabad, Chennai
 
 **Batch**: 2024 / 2025
-
-#### Responsibilities
-- Immerse yourself in the daily activities of a specific business division.
-- Contribute to real projects and gain hands-on experience.
-- Collaborate with experienced professionals to learn and grow.
 
 #### Qualifications
 - Currently pursuing an undergraduate/master's degree.
@@ -31,9 +26,8 @@ The Summer Analyst Internship is tailored for candidates currently pursuing unde
 - Passion for finance and the financial markets.
 
 #### Application Process
-Interested candidates can apply through the [Amazon Careers Portal](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB). Ensure to submit your resume, cover letter, and any additional required documents.
+Interested candidates can apply through the [Amazon Careers Portal](https://www.amazon.jobs/en/jobs/2437708/data-scientist-intern?cmpid=JB_INOP301245B). Ensure to submit your resume, cover letter, and any additional required documents.
 
----
 
 ```json
 {
@@ -45,11 +39,6 @@ Interested candidates can apply through the [Amazon Careers Portal](https://gold
   "Qualification": "Master's Degree or equivalent"
 }
 ```
-
-#### Summer Associate Internship
-The Summer Associate Internship is aimed at candidates pursuing advanced degrees such as MBA, JD, MD, or LLM, typically during their second or penultimate year of study. This ten-week program offers significant responsibilities, giving you a taste of the daily tasks of a full-time Amazon employee.
-
-**Location**: PAN India
 
 
 #### Key Responsibilities:
