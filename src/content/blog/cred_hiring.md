@@ -44,4 +44,4 @@ Interested candidates can apply through the [CRED Careers Portal](https://jobs.l
 #### Conclusion
 Don't miss the chance to launch your career with one of the leading names in the finance industry. Apply for the CRED frontend developer Internship to gain invaluable insights, contribute to real projects, and pave the way for a successful future in the financial sector.
 
-**Disclaimer**: This information is provided as of the cutoff date and may be subject to change. Please refer to the official Amazon website for the most up-to-date information and application details.
+**Disclaimer**: This information is provided as of the cutoff date and may be subject to change. Please refer to the official CRED website for the most up-to-date information and application details.
