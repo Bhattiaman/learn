@@ -57,6 +57,6 @@ To apply, visit the [Amazon Careers Portal](https://www.amazon.jobs/en/jobs/2437
 ***Note***: The mentioned salary of up to 16.5 LPA is subject to change and may vary based on factors such as experience, role, and location.
 
 #### Conclusion
-Don't miss the chance to launch your career with one of the leading names in the finance industry. Apply for the Amazon Summer Analyst and Summer Associate Internships to gain invaluable insights, contribute to real projects, and pave the way for a successful future in the financial sector.
+Don't miss the chance to launch your career with one of the leading names in the finance industry. Apply for the Amazon Data Scientist Internship to gain invaluable insights, contribute to real projects, and pave the way for a successful future in the financial sector.
 
 **Disclaimer**: This information is provided as of the cutoff date and may be subject to change. Please refer to the official Amazon website for the most up-to-date information and application details.
