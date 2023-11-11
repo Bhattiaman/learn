@@ -2,7 +2,7 @@
 title: 'Amazon Hiring 🤩!'
 description: 'The summer analyst internship is for candidates currently pursuing an undergraduate/master’s degree and is usually undertaken during the second...'
 pubDate: '2022-11-11'
-heroImage: '/amazone.png'
+heroImage: '/Amazon.png'
 ---
 
 <!-- #### About Company
