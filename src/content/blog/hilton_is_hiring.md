@@ -7,15 +7,30 @@ heroImage: '/Hilton.png'
 
 **Website**: [Hilton](https://jobs.hilton.com/apac/en/job/APA0142U/Information-Technology-Intern-FTC)
 
+#### Key Responsibilities:
+- Analytical Solution Delivery
+- Programming and Analytical Tools
+- Microsoft Office Proficiency
+- Problem Solving and Innovation
+- Big Data and Cloud Computing
 
-#### Key Qualifications:
-
+**Salary**: Upto 6 LPA
 **Location**: Gurgaon
 
 **Batch**: 2022 / 2023
 
 #### Qualifications
-
+##### Technical Skills:
+- Strong programming skills in at least one object-oriented language (Java, Python, etc.).
+- Hands-on experience with analytical tools such as R, SAS, Matlab, and SQL.
+- Excellent proficiency in Microsoft Office, particularly with a strong working knowledge of Excel.
+##### Communication and Presentation Skills:
+- Excellent written and spoken English.
+- Strong communication skills and the ability to present data effectively.
+##### Problem Solving and Analytical Abilities:
+- Proven ability to deliver large analytical solutions with significant business impact.
+- Analytical mindset for debugging complex issues and identifying potential areas of improvement.
+- Passion for working with big data and applying problem-solving skills.
 
 #### Application Process
 Interested candidates can apply through the [Hilton Careers Portal](https://jobs.hilton.com/apac/en/job/APA0142U/Information-Technology-Intern-FTC). Ensure to submit your resume, cover letter, and any additional required documents.
